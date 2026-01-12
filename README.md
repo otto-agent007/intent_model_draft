@@ -115,7 +115,7 @@ In the "Active Inference" framework (Karl Friston), the brain is an inference en
 
 **3\. The Informational Layer: Landauer’s Principle and Negentropy**
 
-This is where your model gets truly robust. If information and energy are linked (Landauer's Principle), then organizing information (Intent) is an energetic act.
+This is where the model gets truly robust. If information and energy are linked (Landauer's Principle), then organizing information (Intent) is an energetic act.
 
 * **Negentropy**: Intent is a generator of negative entropy. It takes a "smear" of possible futures and collapses them into a singular trajectory.  
 * In a universe governed by the Second Law of Thermodynamics (entropy increases), **Conscious Intent is the primary counter-force**. It is the only thing we know of that can locally reverse the arrow of disorder by imposing "In-formation" onto the "Form-less."
