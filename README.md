@@ -90,7 +90,7 @@ Putting it all together:
 
 * **Consciousness field (metaphoric)** – integrates these into the experiential unfolding we call “the future.”
 
-
+---
 
 
 The model is a sophisticated synthesis of **Complex Systems Theory**, **Information Theory**, and **Predictive Processing**. It avoids the "mystical trap" by framing intention not as a magical force, but as a top-down constraint on a bottom-up stochastic system.
